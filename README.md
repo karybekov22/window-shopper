@@ -1,3 +1,3 @@
 # window-shopper
 
-## This is iOS app calculates how many hours you should work to buy some item.
+## This is an iOS app. It calculates how many hours you should work to buy some item.
